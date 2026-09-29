@@ -1,0 +1,269 @@
+{
+  "examples": [
+    {
+      "name": "phone_blue",
+      "title": "Blue marble / phone",
+      "shape": "rectangle",
+      "width": 1080,
+      "height": 1920,
+      "style": "blue",
+      "seed": 101,
+      "file": "phone_blue.png"
+    },
+    {
+      "name": "desktop_golden",
+      "title": "Golden marble / desktop",
+      "shape": "rectangle",
+      "width": 1920,
+      "height": 1080,
+      "style": "golden",
+      "seed": 202,
+      "file": "desktop_golden.png"
+    },
+    {
+      "name": "desktop_jupiter",
+      "title": "Jupiter / desktop",
+      "shape": "rectangle",
+      "width": 1920,
+      "height": 1080,
+      "style": "jupiter",
+      "seed": 303,
+      "file": "desktop_jupiter.png"
+    },
+    {
+      "name": "triangle_burgundy",
+      "title": "Burgundy / triangle",
+      "shape": "triangle",
+      "width": 512,
+      "height": 512,
+      "style": "burgundy",
+      "seed": 404,
+      "file": "triangle_burgundy.png",
+      "geometry": {
+        "vertices": [
+          [
+            256.0,
+            34.29749663118372
+          ],
+          [
+            512.0,
+            477.7025033688163
+          ],
+          [
+            0.0,
+            477.7025033688163
+          ]
+        ],
+        "bounds": [
+          0.0,
+          34.29749663118372,
+          512.0,
+          477.7025033688163
+        ],
+        "side": 512
+      }
+    },
+    {
+      "name": "triangle_custom",
+      "title": "Patina / custom triangle",
+      "shape": "triangle",
+      "width": 512,
+      "height": 512,
+      "style": "carrara",
+      "seed": 505,
+      "colors": [
+        "#143C40",
+        "#357C80",
+        "#C79764",
+        "#E9D7B5"
+      ],
+      "file": "triangle_custom.png",
+      "geometry": {
+        "vertices": [
+          [
+            256.0,
+            34.29749663118372
+          ],
+          [
+            512.0,
+            477.7025033688163
+          ],
+          [
+            0.0,
+            477.7025033688163
+          ]
+        ],
+        "bounds": [
+          0.0,
+          34.29749663118372,
+          512.0,
+          477.7025033688163
+        ],
+        "side": 512
+      }
+    },
+    {
+      "name": "hexagon_green",
+      "title": "Serpentine / hexagon",
+      "shape": "hexagon",
+      "width": 512,
+      "height": 512,
+      "style": "green",
+      "seed": 606,
+      "file": "hexagon_green.png",
+      "geometry": {
+        "vertices": [
+          [
+            512.0,
+            256.0
+          ],
+          [
+            384.0,
+            477.7025033688163
+          ],
+          [
+            128.0,
+            477.7025033688163
+          ],
+          [
+            0.0,
+            256.0
+          ],
+          [
+            128.0,
+            34.29749663118372
+          ],
+          [
+            384.0,
+            34.29749663118372
+          ]
+        ],
+        "bounds": [
+          0.0,
+          34.29749663118372,
+          512.0,
+          477.7025033688163
+        ],
+        "side": 256.0
+      }
+    },
+    {
+      "name": "hexagon_alien",
+      "title": "Alien / hexagon",
+      "shape": "hexagon",
+      "width": 512,
+      "height": 512,
+      "style": "alien",
+      "seed": 707,
+      "file": "hexagon_alien.png",
+      "geometry": {
+        "vertices": [
+          [
+            512.0,
+            256.0
+          ],
+          [
+            384.0,
+            477.7025033688163
+          ],
+          [
+            128.0,
+            477.7025033688163
+          ],
+          [
+            0.0,
+            256.0
+          ],
+          [
+            128.0,
+            34.29749663118372
+          ],
+          [
+            384.0,
+            34.29749663118372
+          ]
+        ],
+        "bounds": [
+          0.0,
+          34.29749663118372,
+          512.0,
+          477.7025033688163
+        ],
+        "side": 256.0
+      }
+    },
+    {
+      "file": "triangle_layout.png",
+      "shape": "triangle",
+      "width": 1200,
+      "height": 800,
+      "tile_canvas": 240,
+      "geometry": {
+        "vertices": [
+          [
+            120.0,
+            16.076951545867374
+          ],
+          [
+            240.0,
+            223.92304845413264
+          ],
+          [
+            0.0,
+            223.92304845413264
+          ]
+        ],
+        "bounds": [
+          0.0,
+          16.076951545867374,
+          240.0,
+          223.92304845413264
+        ],
+        "side": 240
+      }
+    },
+    {
+      "file": "hexagon_layout.png",
+      "shape": "hexagon",
+      "width": 1200,
+      "height": 800,
+      "tile_canvas": 240,
+      "geometry": {
+        "vertices": [
+          [
+            240.0,
+            120.0
+          ],
+          [
+            180.0,
+            223.92304845413264
+          ],
+          [
+            60.0,
+            223.92304845413264
+          ],
+          [
+            0.0,
+            120.0
+          ],
+          [
+            60.0,
+            16.076951545867374
+          ],
+          [
+            180.0,
+            16.076951545867374
+          ]
+        ],
+        "bounds": [
+          0.0,
+          16.076951545867374,
+          240.0,
+          223.92304845413264
+        ],
+        "side": 120.0
+      }
+    }
+  ],
+  "contact_sheet": "contact_sheet.png"
+}

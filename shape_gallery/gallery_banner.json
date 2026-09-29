@@ -1,0 +1,125 @@
+{
+  "renderer": "marble_circles.MarbleGenerator",
+  "width": 3072,
+  "height": 1024,
+  "texture_size": 1024,
+  "top_cuts": [
+    720,
+    1210,
+    1710,
+    2240,
+    2730
+  ],
+  "slant": 448,
+  "separator_width": 6,
+  "panels": [
+    {
+      "name": "cyan",
+      "style": "jupiter",
+      "seed": 1207,
+      "rotation": 90,
+      "colors": [
+        "#071622",
+        "#083149",
+        "#126784",
+        "#42BED7",
+        "#D3F5F4"
+      ],
+      "vein_scale": 0.012,
+      "texture_scale": 0.7,
+      "complexity": 5,
+      "vein_intensity": 0.9,
+      "file": "gallery_banner_textures/cyan.png"
+    },
+    {
+      "name": "patina",
+      "style": "carrara",
+      "seed": 505,
+      "rotation": 0,
+      "colors": [
+        "#092E34",
+        "#20636B",
+        "#319294",
+        "#CCA265",
+        "#F0DEB8"
+      ],
+      "vein_scale": 0.009,
+      "texture_scale": 0.85,
+      "complexity": 4,
+      "vein_intensity": 0.8,
+      "file": "gallery_banner_textures/patina.png"
+    },
+    {
+      "name": "amber",
+      "style": "jupiter",
+      "seed": 303,
+      "rotation": 90,
+      "colors": [
+        "#48200C",
+        "#9B450D",
+        "#E89019",
+        "#FFE0A1",
+        "#FFF4D8"
+      ],
+      "vein_scale": 0.013,
+      "texture_scale": 0.7,
+      "complexity": 5,
+      "vein_intensity": 1.0,
+      "file": "gallery_banner_textures/amber.png"
+    },
+    {
+      "name": "violet",
+      "style": "alien",
+      "seed": 707,
+      "rotation": 270,
+      "colors": [
+        "#241044",
+        "#512294",
+        "#9650DF",
+        "#D49CFF",
+        "#F4DFFF"
+      ],
+      "vein_scale": 0.012,
+      "texture_scale": 0.8,
+      "complexity": 5,
+      "vein_intensity": 0.8,
+      "file": "gallery_banner_textures/violet.png"
+    },
+    {
+      "name": "coral",
+      "style": "jupiter",
+      "seed": 1909,
+      "rotation": 90,
+      "colors": [
+        "#41172B",
+        "#8D2B48",
+        "#E6656E",
+        "#FFB5A0",
+        "#FFE4CD"
+      ],
+      "vein_scale": 0.01,
+      "texture_scale": 0.9,
+      "complexity": 4,
+      "vein_intensity": 0.9,
+      "file": "gallery_banner_textures/coral.png"
+    },
+    {
+      "name": "charcoal",
+      "style": "ice_world",
+      "seed": 818,
+      "rotation": 270,
+      "colors": [
+        "#101A22",
+        "#35414A",
+        "#738084",
+        "#DAD8CB",
+        "#FFF1D9"
+      ],
+      "vein_scale": 0.014,
+      "texture_scale": 0.75,
+      "complexity": 5,
+      "vein_intensity": 0.8,
+      "file": "gallery_banner_textures/charcoal.png"
+    }
+  ]
+}

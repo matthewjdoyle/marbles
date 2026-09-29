@@ -1,0 +1,46 @@
+[
+  {
+    "name": "carrara",
+    "size": 64,
+    "style": "carrara",
+    "colors": null,
+    "intensity": 1.0,
+    "sha256": "a94e304f46c8bc671e662f5cdc9ef5431019f1b9c25bef4003ef9ca374b066f9"
+  },
+  {
+    "name": "golden",
+    "size": 97,
+    "style": "golden",
+    "colors": null,
+    "intensity": 1.2,
+    "sha256": "151ef0aded9f46f44bcbfcda962f6536300299d94f2b2baae30320b3064a9ac6"
+  },
+  {
+    "name": "jupiter",
+    "size": 64,
+    "style": "jupiter",
+    "colors": null,
+    "intensity": 0.8,
+    "sha256": "d15932ccc91f5abdde86acf54e53d3ef551bf0fe987bf56c956e8f2db0c8501c"
+  },
+  {
+    "name": "earth",
+    "size": 97,
+    "style": "earth",
+    "colors": null,
+    "intensity": 1.0,
+    "sha256": "f3b37d5f5df6a1bd3127c6f890cc7f8d608f5b52c70497ac648af5f56a674360"
+  },
+  {
+    "name": "custom",
+    "size": 64,
+    "style": "carrara",
+    "colors": [
+      "#FF6B6B",
+      "#4ECDC4",
+      "#45B7D1"
+    ],
+    "intensity": 0.8,
+    "sha256": "8545c2cd90ac472732dc0a413495e125a66e9d49c0038d67422954b1ba494362"
+  }
+]

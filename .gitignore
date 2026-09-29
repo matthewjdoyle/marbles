@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.verification/
+build/
+dist/
+
+
+# Generated artwork and local experiments
+/random_marbles/
+/marble_output/
+/test_texture_scale.png/
+/random_*.png
